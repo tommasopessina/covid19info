@@ -1,0 +1,12 @@
+name: Covid19Explorer
+title: Covid19Explorer
+username:
+account: tommaso-pessina
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1929572
+bundleId: 2868121
+url: https://tommaso-pessina.shinyapps.io/Covid19Explorer/
+when: 1583855454.20589
+asMultiple: FALSE
+asStatic: FALSE

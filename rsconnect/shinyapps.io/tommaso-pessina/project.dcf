@@ -1,0 +1,12 @@
+name: project
+title: project
+username:
+account: tommaso-pessina
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1929548
+bundleId: 2868097
+url: https://tommaso-pessina.shinyapps.io/project/
+when: 1583855141.68758
+asMultiple: FALSE
+asStatic: FALSE
